@@ -1,0 +1,30 @@
+D:\WCF Chat\WCF Chat\bin\ApplicationInsights.config
+D:\WCF Chat\WCF Chat\bin\WCF Chat.dll.config
+D:\WCF Chat\WCF Chat\bin\WCF Chat.dll
+D:\WCF Chat\WCF Chat\bin\WCF Chat.pdb
+D:\WCF Chat\WCF Chat\bin\BinbinComponentModelDataAnnotations.dll
+D:\WCF Chat\WCF Chat\bin\Microsoft.AI.Agent.Intercept.dll
+D:\WCF Chat\WCF Chat\bin\Microsoft.AI.DependencyCollector.dll
+D:\WCF Chat\WCF Chat\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\WCF Chat\WCF Chat\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\WCF Chat\WCF Chat\bin\Microsoft.AI.Web.dll
+D:\WCF Chat\WCF Chat\bin\Microsoft.AI.WindowsServer.dll
+D:\WCF Chat\WCF Chat\bin\Microsoft.ApplicationInsights.dll
+D:\WCF Chat\WCF Chat\bin\Microsoft.AI.DependencyCollector.xml
+D:\WCF Chat\WCF Chat\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\WCF Chat\WCF Chat\bin\Microsoft.AI.Web.xml
+D:\WCF Chat\WCF Chat\bin\Microsoft.AI.WindowsServer.xml
+D:\WCF Chat\WCF Chat\bin\Microsoft.ApplicationInsights.xml
+D:\WCF Chat\WCF Chat\obj\Debug\WCF Chat.dll
+D:\WCF Chat\WCF Chat\obj\Debug\WCF Chat.pdb
+D:\WCF Chat\WCF Chat\bin\EntityFramework.dll
+D:\WCF Chat\WCF Chat\bin\EntityFramework.SqlServer.dll
+D:\WCF Chat\WCF Chat\bin\EntityFramework.xml
+D:\WCF Chat\WCF Chat\bin\EntityFramework.SqlServer.xml
+D:\WCF Chat\WCF Chat\obj\Debug\WCF Chat.csprojResolveAssemblyReference.cache
+D:\WCF Chat\WCF Chat\bin\Newtonsoft.Json.dll
+D:\WCF Chat\WCF Chat\bin\System.Net.Http.Formatting.dll
+D:\WCF Chat\WCF Chat\bin\System.Web.Http.dll
+D:\WCF Chat\WCF Chat\bin\Newtonsoft.Json.xml
+D:\WCF Chat\WCF Chat\bin\System.Net.Http.Formatting.xml
+D:\WCF Chat\WCF Chat\bin\System.Web.Http.xml
